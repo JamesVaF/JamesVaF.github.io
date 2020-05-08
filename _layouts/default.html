@@ -31,6 +31,8 @@
 		<noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
+	<div id="fb-root"></div>
+
 
 		{% include layout/header.html %}
 
@@ -39,6 +41,7 @@
 		{% include layout/footer.html %}
 
 		<!-- Scripts -->
+		    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0&appId=2753742191400771"></script>
 			<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 			<script src="{{ site.baseurl }}/assets/js/jquery.poptrox.min.js"></script>
 			<script src="{{ site.baseurl }}/assets/js/jquery.scrolly.min.js"></script>
