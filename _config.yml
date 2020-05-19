@@ -2,7 +2,7 @@
 title: JamesVaF
 tagline: By Pixelarity
 description: > # this means to ignore newlines until "baseurl:"
-  The JamesVaF homepage of the aspiring voice actor James F. Come have a look and let's set something up!
+  The JamesVaF homepage of the voice actor James F. Come have a look and let's set something up!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 
